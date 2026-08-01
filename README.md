@@ -6,3 +6,5 @@ Digital clock updater script in JavaScript.
 Clone this project and look at the source files:
 - `index.html`
 - `clock.js`
+
+*Initialized by wlakernotalnanathan workspace automation.*
